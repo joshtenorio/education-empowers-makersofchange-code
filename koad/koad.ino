@@ -50,14 +50,14 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly:
 
-  // setLED(leftFrontButton, leftFrontLED);
-   /*
+  setLED(leftFrontButton, leftFrontLED);
+   
    setLED(leftMidButton, leftMidLED);
    setLED(leftBackButton, leftBackLED);
    setLED(rightFrontButton, rightFrontLED);
    setLED(rightMidButton, rightMidLED);
    setLED(rightBackButton, rightBackLED);
    setLED(midButton, midLED);
-    */
+    
   delay(50);
 }
